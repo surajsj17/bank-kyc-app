@@ -29,7 +29,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-    #  - name: Run Tests
+     #  - name: Run Tests
      #   run: npm test -- --watchAll=false
 
       - name: Build Application
